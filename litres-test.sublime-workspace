@@ -1,0 +1,1962 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"__logo",
+				"__logo-img"
+			],
+			[
+				"rel",
+				"rel-size"
+			],
+			[
+				"__it",
+				"__item-text"
+			],
+			[
+				"form-erro",
+				"form-error-color"
+			],
+			[
+				"to",
+				"toggleBtns"
+			],
+			[
+				"dateti",
+				"dateTimeB"
+			],
+			[
+				"datea",
+				"dateTimeA"
+			],
+			[
+				"dateb",
+				"dateTimeB"
+			],
+			[
+				"date",
+				"dateTimeA"
+			],
+			[
+				"datete",
+				"dateTextB"
+			],
+			[
+				"main",
+				"main-menu"
+			],
+			[
+				"alb",
+				"albums"
+			],
+			[
+				"alli",
+				"AlbumsList"
+			],
+			[
+				"edi",
+				"editAlbum"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"newna",
+				"newAlbumName"
+			],
+			[
+				"new",
+				"newAlbumInputValue"
+			],
+			[
+				"al",
+				"albums"
+			],
+			[
+				"loca",
+				"localStorage"
+			],
+			[
+				"clea",
+				"clearAll"
+			],
+			[
+				"изо",
+				"изображений"
+			],
+			[
+				"prev",
+				"preview"
+			],
+			[
+				"sta",
+				"state"
+			],
+			[
+				"previ",
+				"previewItems"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"ln",
+				"length"
+			],
+			[
+				"albu",
+				"albums"
+			],
+			[
+				"stet",
+				"state"
+			],
+			[
+				"set",
+				"setState"
+			],
+			[
+				"clr",
+				"clearFiles"
+			],
+			[
+				"clear",
+				"clearFiles"
+			],
+			[
+				"compo",
+				"component"
+			],
+			[
+				"objec",
+				"object-position"
+			],
+			[
+				"Alli",
+				"AlbumsList"
+			],
+			[
+				"Al",
+				"AlbumsList"
+			],
+			[
+				"const",
+				"constructor"
+			],
+			[
+				"inpu",
+				"editAlbumNameInput"
+			],
+			[
+				"onE",
+				"onEditStart"
+			],
+			[
+				"MOd",
+				"ModalEditAlbum"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"alid",
+				"albumID"
+			],
+			[
+				"moa",
+				"modal"
+			],
+			[
+				"New",
+				"ModalNewAlbum"
+			],
+			[
+				"album",
+				"Album"
+			],
+			[
+				"alexa",
+				"albumExampleClass"
+			],
+			[
+				"newmoda",
+				"newAlbumModal"
+			],
+			[
+				"neamod",
+				"newAlbumModal"
+			],
+			[
+				"create",
+				"createNewAlbum"
+			],
+			[
+				"albus",
+				"albums"
+			],
+			[
+				"no",
+				"noWins"
+			],
+			[
+				"res",
+				"resizeController"
+			],
+			[
+				"smal",
+				"smallScreen"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"proje",
+				"project"
+			],
+			[
+				"feau",
+				"feature"
+			],
+			[
+				"prolis",
+				"projectsList"
+			],
+			[
+				"ind",
+				"index"
+			],
+			[
+				"filt",
+				"filterTag"
+			],
+			[
+				"full",
+				"fullText"
+			],
+			[
+				"a",
+				"arole\tarole"
+			],
+			[
+				"projects",
+				"projects-list"
+			],
+			[
+				"projec",
+				"project"
+			],
+			[
+				"add",
+				"addProject"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"proli",
+				"ProjectsList"
+			],
+			[
+				"vue",
+				"vueApp"
+			],
+			[
+				"num",
+				"num"
+			],
+			[
+				"DOC",
+				"DOCUMENT_ROOT"
+			],
+			[
+				"pointer",
+				"pointer-events"
+			],
+			[
+				"poin",
+				"pointer-events"
+			],
+			[
+				"css",
+				"cssoutline\toutline"
+			],
+			[
+				"mni",
+				"minimasonry"
+			],
+			[
+				"showmo",
+				"showMoreBtn"
+			],
+			[
+				"shomo",
+				"showMoreBtn"
+			],
+			[
+				"show",
+				"showMoreItems"
+			],
+			[
+				"opene",
+				"openedClass"
+			],
+			[
+				"__",
+				"__more"
+			],
+			[
+				"__co",
+				"__container-outer"
+			],
+			[
+				"sh",
+				"shuffle"
+			],
+			[
+				"scrTo",
+				"scrollTop"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"lea",
+				"leaf-2"
+			],
+			[
+				"icon",
+				"icons"
+			],
+			[
+				"formse",
+				"formSelector"
+			],
+			[
+				"rese",
+				"resetCalc"
+			],
+			[
+				"addtil",
+				"addTiles"
+			],
+			[
+				"chec",
+				"checkbox-border"
+			],
+			[
+				"ero",
+				"error"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"fall",
+				"fallbackUrl"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"th",
+				"thumb"
+			],
+			[
+				"curre",
+				"currentFgImage"
+			],
+			[
+				"tras",
+				"transforms"
+			],
+			[
+				"chang",
+				"changeBgImage"
+			],
+			[
+				"currg",
+				"currentFgImage"
+			],
+			[
+				"dath",
+				"dAttrThumb"
+			],
+			[
+				"interior-e",
+				"interior-example-1"
+			],
+			[
+				"inte",
+				"interiorImg"
+			],
+			[
+				"in",
+				"interiorImg"
+			],
+			[
+				"appe",
+				"applyImage"
+			],
+			[
+				"incla",
+				"interiorPreviewBtnClass"
+			],
+			[
+				"prein",
+				"interiorPreviewBtnClass"
+			],
+			[
+				"dat1",
+				"dAttrX1"
+			],
+			[
+				"appl",
+				"applyImage"
+			],
+			[
+				"image",
+				"imagemin"
+			],
+			[
+				"bac",
+				"background-attachment"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"cah",
+				"calcChange"
+			],
+			[
+				"hidden",
+				"hiddenClass"
+			],
+			[
+				"lighten",
+				"lightness"
+			],
+			[
+				"rea",
+				"reachGoal"
+			],
+			[
+				"mod",
+				"module"
+			],
+			[
+				"u",
+				"undefined"
+			],
+			[
+				"yaco",
+				"yaCounter"
+			],
+			[
+				"yac",
+				"yaCounter"
+			],
+			[
+				"ya",
+				"yaCounter"
+			],
+			[
+				"de",
+				"delay"
+			],
+			[
+				"dete",
+				"detectCounter"
+			],
+			[
+				"load",
+				"loadImages"
+			],
+			[
+				"imco",
+				"imgContainer"
+			],
+			[
+				"rnd",
+				"rand"
+			],
+			[
+				"rand",
+				"randName"
+			],
+			[
+				"var",
+				"variant"
+			],
+			[
+				"ech",
+				"echo\techo \"…\""
+			],
+			[
+				"bas",
+				"base64string"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Viygotskiyi_viy_L._Psihologiya_Iskusstva.xml",
+			"settings":
+			{
+				"buffer_size": 1362788,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "clos",
+		"selected_items":
+		[
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"javsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"svgi",
+				"Snippet: svg-icon"
+			],
+			[
+				"subse",
+				"Snippet: Idiomatic CSS - Sub-Section Comment Block"
+			],
+			[
+				"subs",
+				"Snippet: Idiomatic CSS - Sub-Section Comment Block"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"arol",
+				"Snippet: arole"
+			],
+			[
+				"styl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"pa1",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"gitini",
+				"Git: Init"
+			],
+			[
+				"git puscu",
+				"Git: Push Current Branch"
+			],
+			[
+				"gipushcu",
+				"Git: Push Current Branch"
+			],
+			[
+				"git pushc",
+				"Git: Push Current Branch"
+			],
+			[
+				"mapre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mard",
+				"Set Syntax: Markdown"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"javaba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"htmlb",
+				"Snippet: htmlboiler"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"if",
+				"Snippet: php_if"
+			],
+			[
+				"sty",
+				"Set Syntax: Stylus"
+			],
+			[
+				"git cus",
+				"Git: Custom Command"
+			],
+			[
+				"babl",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"javasba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"jaba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remopa",
+				"Package Control: Remove Package"
+			],
+			[
+				"reac",
+				"Set Syntax: React Templates"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"git puhcu",
+				"Git: Push Current Branch"
+			],
+			[
+				"git diff",
+				"Git: Diff All Files"
+			],
+			[
+				"git pushcu",
+				"Git: Push Current Branch"
+			],
+			[
+				"ame",
+				"Git: Amend Commit"
+			],
+			[
+				"diffa",
+				"Git: Diff All Files"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"gitpucu",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitchekc",
+				"Git: Checkout Current File"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"git pushcr",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitpusc",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitdiffa",
+				"Git: Diff All Files"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"arole",
+				"Snippet: arole"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"phpif",
+				"Snippet: php_if"
+			],
+			[
+				"git pucu",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitcomm",
+				"Git: Commit"
+			],
+			[
+				"git pucurr",
+				"Git: Push Current Branch"
+			],
+			[
+				"git puscur",
+				"Git: Push Current Branch"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"git puc",
+				"Git: Push Current Branch"
+			],
+			[
+				"git pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"gaa",
+				"Git: Add All"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"svgic",
+				"Snippet: svg-icon"
+			],
+			[
+				"tospa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"git pusc",
+				"Git: Push Current Branch"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"conf",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"git push cu",
+				"Git: Push Current Branch"
+			],
+			[
+				"git sat",
+				"Git: Status"
+			],
+			[
+				"coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"gitpus",
+				"Git: Push Current Branch"
+			],
+			[
+				"coffes",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"compre",
+				"Format CSS: Compressed"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"csspre",
+				"Format CSS: Compressed"
+			],
+			[
+				"traili",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"htmlbo",
+				"Snippet: htmlboiler"
+			]
+		],
+		"width": 1084.0
+	},
+	"console":
+	{
+		"height": 416.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/unfriend/Projects/litres-test"
+	],
+	"file_history":
+	[
+		"/home/unfriend/Desktop/Viygotskiyi_viy_L._Psihologiya_Iskusstva.xml",
+		"/home/unfriend/Projects/nuzhnapomosh-test/README.md",
+		"/home/unfriend/Projects/nuzhnapomosh-test/temp/Тестовое задание.txt",
+		"/home/unfriend/Projects/nuzhnapomosh-test/assets/styles/variables.styl",
+		"/home/unfriend/Projects/nuzhnapomosh-test/docs/index.html",
+		"/home/unfriend/Projects/nuzhnapomosh-test/docs/index--debug.html",
+		"/home/unfriend/Projects/nuzhnapomosh-test/docs/assets/build/dev/project.dev.css",
+		"/home/unfriend/Projects/nuzhnapomosh-test/docs/assets/scripts/app.js",
+		"/home/unfriend/Projects/nuzhnapomosh-test/include/feedback-form-example.php",
+		"/home/unfriend/Projects/nuzhnapomosh-test/docs/assets/scripts/modules/browserUpdate.js",
+		"/home/unfriend/Projects/nuzhnapomosh-test/docs/assets/scripts/modules/formsValidation.js",
+		"/home/unfriend/Projects/nuzhnapomosh-test/page-main.php",
+		"/home/unfriend/Projects/nuzhnapomosh-test/docs/assets/build/prod/project.min.css",
+		"/home/unfriend/Projects/nuzhnapomosh-test/docs/assets/build/prod/project.min.js",
+		"/home/unfriend/Projects/nuzhnapomosh-test/assets/scripts/modules/sidebar.js",
+		"/home/unfriend/Projects/nuzhnapomosh-test/gulp/config.js",
+		"/home/unfriend/Projects/nuzhnapomosh-test/header.php",
+		"/home/unfriend/Projects/nuzhnapomosh-test/footer.php",
+		"/home/unfriend/Projects/nuzhnapomosh-test/assets/styles/blocks/main-menu.styl",
+		"/home/unfriend/Projects/nuzhnapomosh-test/assets/styles/layout.styl",
+		"/home/unfriend/Projects/nuzhnapomosh-test/assets/styles/blocks/page-sidebar.styl",
+		"/home/unfriend/Projects/nuzhnapomosh-test/assets/styles/blocks/page-footer.styl",
+		"/home/unfriend/Projects/nuzhnapomosh-test/assets/styles/blocks/page-header.styl",
+		"/home/unfriend/Projects/nuzhnapomosh-test/include/feedback-form.php",
+		"/home/unfriend/Projects/nuzhnapomosh-test/assets/styles/components/form.styl",
+		"/home/unfriend/Projects/nuzhnapomosh-test/assets/styles/components/buttons.styl",
+		"/home/unfriend/Projects/nuzhnapomosh-test/assets/styles/components/popup.styl",
+		"/home/unfriend/Projects/nuzhnapomosh-test/assets/styles/blocks/news-list.styl",
+		"/home/unfriend/Projects/nuzhnapomosh-test/page-styleguide.php",
+		"/home/unfriend/Projects/nuzhnapomosh-test/assets/scripts/modules/newsList.js",
+		"/home/unfriend/Projects/nuzhnapomosh-test/assets/styles/blocks/page-text-container.styl",
+		"/home/unfriend/Projects/nuzhnapomosh-test/assets/styles/typography.styl",
+		"/home/unfriend/Projects/nuzhnapomosh-test/assets/sprites/common/icon-upload.svg",
+		"/home/unfriend/Projects/nuzhnapomosh-test/assets/svg/sprite/logo.svg",
+		"/home/unfriend/Projects/nuzhnapomosh-test/temp/nuzhnapomosh.ru_test.png",
+		"/home/unfriend/Desktop/npomosh_test/Тестовое задание.txt",
+		"/home/unfriend/Projects/nuzhnapomosh-test/.gitignore",
+		"/home/unfriend/Projects/nuzhnapomosh-test/index.php",
+		"/opt/lampp/etc/extra/httpd-vhosts.conf",
+		"/etc/hosts",
+		"/home/unfriend/Projects/garpix-test/styles/main.css",
+		"/home/unfriend/Projects/garpix-test/scripts/modules/image-upload.js",
+		"/home/unfriend/Projects/garpix-test/scripts/modules/album-card.js",
+		"/home/unfriend/Projects/garpix-test/scripts/modules/modal-edit-album.js",
+		"/home/unfriend/Projects/garpix-test/scripts/modules/modal-new-album.js",
+		"/home/unfriend/Projects/garpix-test/scripts/modules/album-detailed.js",
+		"/home/unfriend/Projects/garpix-test/scripts/modules/albums-list.js",
+		"/home/unfriend/Projects/garpix-test/scripts/app.js",
+		"/home/unfriend/Projects/garpix-test/README.md",
+		"/home/unfriend/Projects/garpix-test/.gitignore",
+		"/home/unfriend/Projects/garpix-test/index.html",
+		"/home/unfriend/Projects/garpix-test/temp.txt",
+		"/home/unfriend/Desktop/ok-frontend-test/task.md",
+		"/home/unfriend/Projects/garpix-test/scripts/album.js",
+		"/home/unfriend/Desktop/temp.txt",
+		"/home/unfriend/Projects/garpix-test/scripts/react-dropzone.js",
+		"/home/unfriend/Desktop/Тестовое задание Frontend.txt",
+		"/home/unfriend/Projects/reactjs-test/src/index.js",
+		"/home/unfriend/Projects/garpix-test/scripts/main.js",
+		"/home/unfriend/Projects/garpix-test/main.js",
+		"/home/unfriend/Projects/garpix-test/src/index.js",
+		"/home/unfriend/Projects/portfolio/assets/scripts/modules/vue/projectsList.js",
+		"/home/unfriend/Projects/portfolio/header.php",
+		"/home/unfriend/Projects/portfolio/assets/styles/blocks/project-detailed.styl",
+		"/home/unfriend/Projects/portfolio/assets/styles/variables.styl",
+		"/home/unfriend/Projects/portfolio/assets/styles/blocks/projects-list.styl",
+		"/home/unfriend/Projects/portfolio/assets/scripts/modules/vue/projects.js",
+		"/home/unfriend/Projects/portfolio/page-main.php",
+		"/home/unfriend/Projects/portfolio/assets/styles/blocks/page-header.styl",
+		"/home/unfriend/Projects/portfolio/assets/scripts/modules/vue/vue.js",
+		"/home/unfriend/Projects/portfolio/assets/scripts/vue-2.5.13.min.js",
+		"/home/unfriend/Projects/portfolio/assets/styles/typography.styl",
+		"/home/unfriend/Projects/portfolio/assets/styles/components/tag.styl",
+		"/home/unfriend/Projects/portfolio/assets/styles/global.styl",
+		"/home/unfriend/Projects/portfolio/assets/styles/blocks/projects-container.styl",
+		"/home/unfriend/Desktop/aqua-help.txt",
+		"/home/unfriend/Projects/markup/maslo-dishi/header.php",
+		"/tmp/fz3temp-1/main-page-scenes.php",
+		"/tmp/fz3temp-1/get-news.php",
+		"/tmp/fz3temp-1/.htaccess",
+		"/tmp/fz3temp-1/index.php",
+		"/tmp/fz3temp-1/functions.php",
+		"/tmp/fz3temp-1/header 3.php",
+		"/tmp/fz3temp-1/page-main--v3.php",
+		"/tmp/fz3temp-1/header.php",
+		"/tmp/fz3temp-1/header 2.php",
+		"/home/unfriend/Projects/markup/venarus/gulpfile.js",
+		"/home/unfriend/Projects/portfolio/footer.php",
+		"/home/unfriend/Projects/portfolio/assets/styles/blocks/page-footer.styl",
+		"/home/unfriend/Projects/portfolio/assets/styles/blocks/app.styl",
+		"/home/unfriend/Projects/portfolio/assets/styles/blocks/projects-grid.styl",
+		"/home/unfriend/Projects/portfolio/README.md",
+		"/home/unfriend/Projects/portfolio/assets/SpamProtection.php",
+		"/home/unfriend/Projects/portfolio/assets/scripts/raven.config.js",
+		"/home/unfriend/Projects/portfolio/assets/scripts/itsoftapp.js",
+		"/home/unfriend/Projects/portfolio/gulp/config.js",
+		"/home/unfriend/Projects/portfolio/index.php",
+		"/home/unfriend/Projects/portfolio/src/index.css",
+		"/home/unfriend/Projects/portfolio/src/App.js",
+		"/home/unfriend/Projects/portfolio/src/index.js",
+		"/home/unfriend/Projects/portfolio/.gitignore",
+		"/home/unfriend/Projects/portfolio/public/index.html",
+		"/home/unfriend/Projects/portfolio/package.json",
+		"/home/unfriend/Projects/portfolio/src/Shedule.js",
+		"/home/unfriend/Projects/portfolio/public/manifest.json",
+		"/home/unfriend/Projects/portfolio/src/App.test.js",
+		"/home/unfriend/Projects/portfolio/src/App.css",
+		"/home/unfriend/Projects/portfolio/src/registerServiceWorker.js",
+		"/home/unfriend/Projects/portfolio/src/logo.svg",
+		"/tmp/fz3temp-1/.bash_history",
+		"/tmp/fz3temp-1/httpd.conf",
+		"/tmp/fz3temp-1/all.markup.itsoft.su.conf",
+		"/home/unfriend/Projects/test/t3/index.php",
+		"/tmp/fz3temp-1/hosts",
+		"/opt/lampp/etc/httpd.conf",
+		"/tmp/fz3temp-1/magic",
+		"/tmp/fz3temp-1/index 5.php",
+		"/tmp/fz3temp-1/index 4.php",
+		"/tmp/fz3temp-1/index 3.php",
+		"/tmp/fz3temp-1/index 2.php",
+		"/tmp/fz3temp-1/header 4.php",
+		"/tmp/fz3temp-1/robots 2.txt",
+		"/tmp/fz3temp-1/robots.txt",
+		"/tmp/fz3temp-1/index.html",
+		"/etc/resolv.conf",
+		"/etc/dbus-1/system.d/dnsmasq.conf",
+		"/tmp/fz3temp-1/README",
+		"/tmp/fz3temp-1/filepos"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+			"-forum/, -node_modules/",
+			"-forum/, -node_modules/, scripts/modules/",
+			"-forum/, -node_modules/ ",
+			"-forum/, -node_modules/",
+			"-forum/",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"assets",
+			"/media/",
+			"/assets/",
+			"\"//",
+			"s/scripts/",
+			"/assets/",
+			"./scripts/",
+			"/assets/scripts/",
+			"../scripts/",
+			"../../scripts/",
+			"/assets/",
+			"/media/",
+			"/assets/",
+			"unit",
+			"@stylint ignore",
+			"arr",
+			" ",
+			" ",
+			"stylint ignore",
+			"question",
+			"email",
+			"firstname",
+			"firstName",
+			"lastName",
+			"A",
+			"a",
+			"news-list__date",
+			"<a ",
+			"menu",
+			"garpix-test",
+			"album",
+			"//",
+			"startin",
+			"||",
+			"console.log(\"",
+			"handleDropRejected",
+			"albumsStorageName",
+			"editAlbum:",
+			"handleEditSave",
+			"id: id",
+			"editAlbum",
+			"handleUpdateNewInputValue",
+			"editAlbumModals",
+			"albumsStorageLastID",
+			"albumsStorageName",
+			"newAlbumInputValue",
+			"createNewAlbum",
+			"albumname =",
+			"newAlbumNameInput",
+			"Album",
+			"width",
+			"isUploa",
+			"isuploa",
+			"удалить в",
+			"JSON",
+			"edit",
+			"reject",
+			"з",
+			"card-img-top",
+			".map",
+			"files",
+			"preview",
+			"close",
+			"componentDidMount",
+			"view",
+			"//",
+			"console",
+			"clearFiles",
+			"consol",
+			"card-text",
+			"card mb-4 box-shadow",
+			"ul",
+			".map",
+			"handleSave",
+			"handleEditSave",
+			"handle",
+			"this.props.handle",
+			"handleDr",
+			"this6",
+			"handleDropRejected",
+			"section",
+			"modal",
+			"styles",
+			"style",
+			"styles",
+			"PropTypes",
+			"dd-overlay",
+			"Link",
+			"//",
+			"BrowserRouter",
+			"Route",
+			"'",
+			"Switch",
+			"BrowserRouter",
+			"require",
+			"console.",
+			"handleEditSave",
+			"Start",
+			"editAlbumModals",
+			"album = props.value",
+			"ModalEditAlbum",
+			"modal-edit-album",
+			"new",
+			"new-album-name-2",
+			"new-album-modal-2",
+			"console.",
+			"createNewAlbum",
+			"getUniqueID",
+			".map",
+			"focus",
+			"class",
+			"exampleModalCenter",
+			"cardExample",
+			"col-md-4",
+			"calculateWinner",
+			"const",
+			"rout",
+			"кщге",
+			"features",
+			"root",
+			"document",
+			"ыьфдд",
+			"tags",
+			"projects-container__inner",
+			"name",
+			"grid",
+			"projects-container",
+			"'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"./media/",
+			"./assets/",
+			"./assets/scripts/",
+			"./scripts/",
+			"scripts/",
+			"../scripts/",
+			"../../",
+			"./media/",
+			"./assets/",
+			" ",
+			"console.log(\"[module AlbumsList] ",
+			"App.consts.albumsStorageName",
+			"App.consts.albumsStorageLastID",
+			"App.consts.albumsStorageName",
+			"newAlbumName",
+			"HashRouter",
+			"input-new-album-name",
+			"modal-new-album",
+			"albumExample",
+			"col-lg-4",
+			"data-original",
+			"2",
+			"/4.1.2ggg",
+			"3",
+			"&nbsp;— ",
+			" из&nbsp;",
+			" А&nbsp;",
+			" На&nbsp;",
+			" за&nbsp;",
+			" для&nbsp;",
+			" от&nbsp;",
+			" по&nbsp;",
+			" к&nbsp;",
+			" в&nbsp;",
+			" и&nbsp;",
+			" с&nbsp;",
+			"<?php ",
+			"<?php echo ",
+			"<?php\n",
+			"<?php",
+			"\"",
+			"interactLibrary",
+			"\"",
+			"<",
+			">",
+			"\"",
+			"<",
+			">",
+			"accent",
+			">",
+			"<",
+			"\"",
+			"&",
+			"\"",
+			">",
+			"<",
+			"\"",
+			"<",
+			">",
+			"\"",
+			"<",
+			">",
+			"\"",
+			">",
+			"<",
+			"\"",
+			"href",
+			";&lt;image",
+			"\"",
+			"img alt=\"Грузовые контейнеры для макетов\" src=\"images/",
+			"img alt=\"Стендовая модель локомотива «Big Boy»\" src=\"images/",
+			"img alt=\"Стендовая модель самолета Су-27 СМ3\" src=\"images/",
+			"img alt=\"Стендовая модель немецкого локомотива BR-50\" src=\"images/",
+			"img alt=\"Стендовая модель танка Т-14 «Армата»\" src=\"images/",
+			"img alt=\"Стендовая модель космического корабля «Тысячелетний Сокол»\" src=\"images/",
+			"Главная",
+			"<img src=\"images/m2.png\" id=\"Image4\" alt=\"МакетоМания\">",
+			"img alt=\"Диорама «Ферма»\" src=\"images/",
+			"img alt=\"Диорама «Учебный пуск»\" src=\"images/",
+			"img alt=\"Интерактивный макет «Историческая площадь»\" src=\"images/",
+			"position:absolute;left:92px;top:39px;width:906px;height:31px;pointer-events:none;",
+			"<a href=\"tel:+7 903 681-93-08\">+7 (903) 681-93-08</a> или <a href=\"mailto:maketomania@gmail.com\">maketomania@gmail.com</a>",
+			"<a href=\"tel:+7 903 681-93-08\"><span style=\"color:#000000;font-family:Verdana;font-size:20px;\">+7 (903) 681-93-08</span></a>",
+			"<a href=\"http://www.wysiwygwebbuilder.com\" target=\"_blank\" rel=\"nofollow\">",
+			"<meta charset=\"utf-8\">\n\n<!-- Favicons -->\n<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/apple-touch-icon.png\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/favicon-32x32.png\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"/favicon-16x16.png\">\n<link rel=\"manifest\" href=\"/manifest.json\">\n<link rel=\"mask-icon\" href=\"/safari-pinned-tab.svg\" color=\"#f7941d\">\n<meta name=\"theme-color\" content=\"#ffffff\">\n<!-- Favicons -->\n",
+			"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEsSURBVDhPrZK9aoRAFIWncxDEiCKxE2yCtUXKlNv6AHkCmxQR9g0MpNvGOpWl1WIXy5SWdpFUQn4YbGIgxeTenZuQJasI2Q8uzDjnODPnDjs2HOrKtu0tVOM4zj3M11AnuDjHBYifkiT5KIpC1nUty7KUaZp+wvdnWF8p2V9WQRAMbdvKQ/R9L6MoGgzDuCT9D9yyrL7rOpIeRgghXdd9Bf2psinWeDTSzJLnuTRN8458jGEoeLclNE0j4ZSPZGVM1/UB77QUsGApsCWY7BIwFwjthayMaZp2m2UZLc+DLcQ3QNYdvud5YhxHkkwThqEA/bmyEZzz6ziOwT/9A3w8sOuGLPtAC25833/D5L8DxN5WVbXbcdL4izNsHXYAxhLyeIf5A4z3j/o/GPsCjLCYg2c9OdYAAAAASUVORK5CYII=",
+			"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACxSURBVDhPrdI9DkFBFMXxKZVKpdISlEqbsAeFwhIkOjuwCK1WaQcSlcRHRINEwf8UM3lvnKHgJL9q7s278+6Ef6eBIRZYY4kxmviYHra441nxwB592OjggmpTTucD1KJRd3ANuSNaSNGdNJorduZI0U9xRSUbpHy7q5OilbiCkgNSpnBFJXoDKW2c4QpzquuilhFucA2RHs8MNhOc4Br1xWJjTAdaXdzAFSu8jfpDQngBwwR/K6nKf6QAAAAASUVORK5CYII="
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Viygotskiyi_viy_L._Psihologiya_Iskusstva.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1362788,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 144.0
+	},
+	"pinned_build_system": "",
+	"project": "litres-test.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"var",
+				"assets/styles/variables.styl"
+			],
+			[
+				"foot",
+				"footer.php"
+			],
+			[
+				"head",
+				"header.php"
+			],
+			[
+				"conf",
+				"gulp/config.js"
+			],
+			[
+				"sidba",
+				"assets/scripts/modules/sidebar.js"
+			],
+			[
+				"newlis",
+				"assets/scripts/modules/newsList.js"
+			],
+			[
+				"fosty",
+				"assets/styles/components/form.styl"
+			],
+			[
+				"pagehe",
+				"assets/styles/blocks/page-header.styl"
+			],
+			[
+				"popsty",
+				"assets/styles/components/popup.styl"
+			],
+			[
+				"pagefoo",
+				"assets/styles/blocks/page-footer.styl"
+			],
+			[
+				"pagest",
+				"page-styleguide.php"
+			],
+			[
+				"mamest",
+				"assets/styles/blocks/main-menu.styl"
+			],
+			[
+				"layo",
+				"assets/styles/layout.styl"
+			],
+			[
+				"maim",
+				"assets/styles/blocks/main-menu.styl"
+			],
+			[
+				"pagesi",
+				"assets/styles/blocks/page-sidebar.styl"
+			],
+			[
+				"nelis",
+				"assets/styles/blocks/news-list.styl"
+			],
+			[
+				"buttsty",
+				"assets/styles/components/buttons.styl"
+			],
+			[
+				"form",
+				"assets/styles/components/form.styl"
+			],
+			[
+				"feed",
+				"include/feedback-form-example.php"
+			],
+			[
+				"pagestyl",
+				"page-styleguide.php"
+			],
+			[
+				"butt",
+				"assets/styles/components/buttons.styl"
+			],
+			[
+				"typo",
+				"assets/styles/typography.styl"
+			],
+			[
+				"pastyl",
+				"page-styleguide.php"
+			],
+			[
+				"pagef",
+				"assets/styles/blocks/page-footer.styl"
+			],
+			[
+				"icoup",
+				"assets/sprites/common/icon-upload.svg"
+			],
+			[
+				"mamen",
+				"assets/styles/blocks/main-menu.styl"
+			],
+			[
+				"pagfoot",
+				"assets/styles/blocks/page-footer.styl"
+			],
+			[
+				"typogr",
+				"assets/styles/typography.styl"
+			],
+			[
+				"paside",
+				"assets/styles/blocks/page-sidebar.styl"
+			],
+			[
+				"layou",
+				"assets/styles/layout.styl"
+			],
+			[
+				"logosv",
+				"assets/svg/sprite/logo.svg"
+			],
+			[
+				"varia",
+				"assets/styles/variables.styl"
+			],
+			[
+				"foo",
+				"footer.php"
+			],
+			[
+				"ind",
+				"index.php"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"macss",
+				"styles/main.css"
+			],
+			[
+				"main",
+				"scripts/main.js"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"prlisjs",
+				"assets/scripts/modules/vue/projectsList.js"
+			],
+			[
+				"prdeia",
+				"assets/styles/blocks/project-detailed.styl"
+			],
+			[
+				"prlisst",
+				"assets/styles/blocks/projects-list.styl"
+			],
+			[
+				"projjs",
+				"assets/scripts/modules/vue/projects.js"
+			],
+			[
+				"pmai",
+				"page-main.php"
+			],
+			[
+				"vari",
+				"assets/styles/variables.styl"
+			],
+			[
+				"pagehs",
+				"assets/styles/blocks/page-header.styl"
+			],
+			[
+				"procon",
+				"assets/styles/blocks/projects-container.styl"
+			],
+			[
+				"prodeta",
+				"assets/styles/blocks/project-detailed.styl"
+			],
+			[
+				"vumi",
+				"assets/scripts/vue-2.5.13.min.js"
+			],
+			[
+				"vuemin",
+				"assets/scripts/vue-2.5.13.min.js"
+			],
+			[
+				"vu",
+				"assets/scripts/modules/vue/vue.js"
+			],
+			[
+				"prolists",
+				"assets/styles/blocks/projects-list.styl"
+			],
+			[
+				"tast",
+				"assets/styles/components/tag.styl"
+			],
+			[
+				"globs",
+				"assets/styles/global.styl"
+			],
+			[
+				"procontas",
+				"assets/styles/blocks/projects-container.styl"
+			],
+			[
+				"pahe",
+				"assets/styles/blocks/page-header.styl"
+			],
+			[
+				"pagehea",
+				"assets/styles/blocks/page-header.styl"
+			],
+			[
+				"pahea",
+				"assets/styles/blocks/page-header.styl"
+			],
+			[
+				"pagfoo",
+				"assets/styles/blocks/page-footer.styl"
+			],
+			[
+				"spaprot",
+				"assets/SpamProtection.php"
+			],
+			[
+				"raveco",
+				"assets/scripts/raven.config.js"
+			],
+			[
+				"readm",
+				"README.md"
+			],
+			[
+				"slil",
+				"assets/scripts/modules/slidersLibrary.js"
+			],
+			[
+				"itsa",
+				"assets/scripts/itsoftapp.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"inde",
+				"public/index.html"
+			],
+			[
+				"hosts",
+				"/etc/hosts"
+			],
+			[
+				"mini",
+				"assets/scripts/minimasonry.min.js"
+			],
+			[
+				"gallsty",
+				"assets/styles/blocks/gallery.styl"
+			],
+			[
+				"gall",
+				"assets/scripts/modules/cs/gallery.coffee"
+			],
+			[
+				"galle",
+				"assets/scripts/modules/cs/gallery.coffee"
+			],
+			[
+				"cal",
+				"assets/scripts/modules/cs/calc.coffee"
+			],
+			[
+				"inter",
+				"assets/scripts/modules/cs/interior.coffee"
+			],
+			[
+				"calc",
+				"assets/scripts/modules/cs/calc.coffee"
+			],
+			[
+				"scmen",
+				"assets/scripts/modules/scrollMenu.js"
+			],
+			[
+				"heablo",
+				"assets/scripts/modules/cs/headerBlock.coffee"
+			],
+			[
+				"fovali",
+				"assets/scripts/modules/formsValidation.js"
+			],
+			[
+				"phmail",
+				"include/phpmailer/PHPMailer.php"
+			],
+			[
+				"exce",
+				"include/phpmailer/Exception.php"
+			],
+			[
+				"phpmai",
+				"include/phpmailer/PHPMailer.php"
+			],
+			[
+				"autolo",
+				"assets/sentry/lib/Raven/Autoloader.php"
+			],
+			[
+				"phpmail",
+				"include/phpmailer/PHPMailer.php"
+			],
+			[
+				"robot",
+				"robots.txt"
+			],
+			[
+				"phma",
+				"include/phpmailer/PHPMailer.php"
+			],
+			[
+				"send",
+				"send-order-form.php"
+			],
+			[
+				"pageloa",
+				"assets/scripts/modules/pageLoad.js"
+			],
+			[
+				"lihas",
+				"assets/scripts/modules/linksWithHash.js"
+			],
+			[
+				"itjs",
+				"assets/scripts/itsoftapp.js"
+			],
+			[
+				"casty",
+				"assets/styles/blocks/calc.styl"
+			],
+			[
+				"scrmen",
+				"assets/scripts/modules/scrollMenu.js"
+			],
+			[
+				"calblosty",
+				"assets/styles/blocks/calc-block.styl"
+			],
+			[
+				"inlibra",
+				"assets/scripts/modules/interactLibrary.js"
+			],
+			[
+				"custsv",
+				"assets/scripts/modules/customSVG.js"
+			],
+			[
+				"scrme",
+				"assets/scripts/modules/scrollMenu.js"
+			],
+			[
+				"glob",
+				"assets/styles/global.styl"
+			],
+			[
+				"cablo",
+				"assets/styles/blocks/calc-block.styl"
+			],
+			[
+				"calblo",
+				"assets/styles/blocks/calc-block.styl"
+			],
+			[
+				"calcoff",
+				"assets/scripts/modules/cs/calc.coffee"
+			],
+			[
+				"metrik",
+				"assets/scripts/modules/cs/metrika.coffee"
+			],
+			[
+				"forva",
+				"assets/scripts/modules/formsValidation.js"
+			],
+			[
+				"domto",
+				"assets/scripts/dom-to-image.js"
+			],
+			[
+				"its",
+				"assets/scripts/itsoftapp.js"
+			],
+			[
+				".hta",
+				".htaccess"
+			],
+			[
+				"cacoff",
+				"assets/scripts/modules/cs/calc.coffee"
+			],
+			[
+				"hta",
+				".htaccess"
+			],
+			[
+				"htac",
+				".htaccess"
+			],
+			[
+				"lazylo",
+				"assets/scripts/modules/cs/lazyLoading.coffee"
+			],
+			[
+				"galles",
+				"assets/styles/blocks/gallery.styl"
+			],
+			[
+				"para",
+				"assets/styles/blocks/parallax.styl"
+			],
+			[
+				"headblo",
+				"assets/styles/blocks/header-block.styl"
+			],
+			[
+				"minify",
+				"gulp/tasks/images/minify.js"
+			],
+			[
+				"confi",
+				"gulp/config.js"
+			],
+			[
+				"wires",
+				"assets/scripts/modules/windowResize.js"
+			],
+			[
+				"paload",
+				"assets/scripts/modules/pageLoad.js"
+			],
+			[
+				"cablos",
+				"assets/styles/blocks/calc-block.styl"
+			],
+			[
+				"sen",
+				"send-order-form.php"
+			],
+			[
+				"buttst",
+				"assets/styles/components/buttons.styl"
+			],
+			[
+				"busty",
+				"assets/styles/components/burger.styl"
+			],
+			[
+				"pagema",
+				"page-main.php"
+			],
+			[
+				"pusnot",
+				"assets/scripts/modules/cs/pushNotifications.coffee"
+			],
+			[
+				"orfo",
+				"include/order-form.php"
+			],
+			[
+				"cajs",
+				"assets/scripts/modules/cs/calc.js"
+			],
+			[
+				"itsofa",
+				"assets/scripts/itsoftapp.js"
+			],
+			[
+				"robo",
+				"robots.txt"
+			],
+			[
+				"scme",
+				"assets/scripts/modules/scrollMenu.js"
+			],
+			[
+				"giign",
+				".gitignore"
+			],
+			[
+				"mail",
+				"mailtest.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "portf",
+		"selected_items":
+		[
+			[
+				"portf",
+				"~/Projects/portfolio/portfolio.sublime-project"
+			],
+			[
+				"gbs",
+				"~/Projects/gbsip/gbsip.sublime-project"
+			],
+			[
+				"reno",
+				"~/Projects/renovacio-med/renovacio-med.sublime-project"
+			],
+			[
+				"fun",
+				"~/Projects/funbox-test/funbox-test.sublime-project"
+			],
+			[
+				"",
+				"~/Projects/wooden-tiles/wooden-tiles.sublime-project"
+			],
+			[
+				"tiles",
+				"~/Projects/wooden-tiles/wooden-tiles.sublime-project"
+			],
+			[
+				"make",
+				"~/Projects/maketomania/maketomania.sublime-workspace"
+			],
+			[
+				"itso",
+				"~/Projects/itsoft-template/itsoft-template.sublime-project"
+			],
+			[
+				"templa",
+				"~/Projects/itsoft-template/itsoft-template.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

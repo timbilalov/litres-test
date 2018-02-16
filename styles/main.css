@@ -1,0 +1,14 @@
+.app {
+    margin: 2rem 0 0;
+}
+
+.app__status {
+    display: none;
+}
+
+.app.is-state-1 .app__status--1,
+.app.is-state-2 .app__status--2,
+.app.is-state-3 .app__status--3,
+.app.is-state-error .app__status--error {
+    display: block;
+}

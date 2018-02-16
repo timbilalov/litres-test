@@ -6,8 +6,33 @@
         <title>litres.ru test</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="./styles/main.css">
     </head>
+
     <body>
-        <p>Hello world! This is HTML5 Boilerplate.</p>
+        <h1>Тестовое задание для litres.ru</h1>
+        <div id="app" class="app is-state-1">
+            <div class="app__status app__status--1">
+                Приложение инициализируется...
+            </div>
+            <div class="app__status app__status--2">
+                Идёт загрузка и обработка xml-документа...
+            </div>
+            <div class="app__status app__status--3">
+                <p>XML-документ: <a href="" id="xml-url"></a></p>
+                <p>Полученные данные:</p>
+                <ol>
+                    <li>Число внутренних ссылок: <span id="local-links-count"></span></li>
+                    <li>Суммарное число букв внутри тегов, не включая пробельные символы: <span id="total-letters-count"></span></li>
+                    <li>Число битых внутренних ссылок: <span id="bad-links-count"></span></li>
+                </ol>
+            </div>
+            <div class="app__status app__status--error">
+                Возникла ошибка: <span id="error"></span>.
+            </div>
+        </div>
+
+        <script src="./scripts/main.js"></script>
     </body>
 </html>
